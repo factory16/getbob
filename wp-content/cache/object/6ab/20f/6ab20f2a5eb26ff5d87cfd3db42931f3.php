@@ -1,0 +1,1 @@
+ﬁÊY<?php exit; ?>a:1:{s:7:"content";s:155:"a:2:{s:25:"adminimize/adminimize.php";s:24:"_mw_adminimize_uninstall";s:19:"optimus/optimus.php";a:2:{i:0;s:7:"Optimus";i:1;s:21:"handle_uninstall_hook";}}";}

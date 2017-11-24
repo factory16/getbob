@@ -1,0 +1,1 @@
+õÊY<?php exit; ?>a:1:{s:7:"content";a:2:{s:19:"the7_fancy_bg_color";a:1:{i:0;s:1:"#";}s:21:"the7_fancy_text_color";a:1:{i:0;s:1:"#";}}}
